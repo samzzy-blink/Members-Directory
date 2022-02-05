@@ -31,4 +31,4 @@
 
 [Adeoye Tobi](https://github.com/OluSure)
 [Olaoye Isaiah](https://github.com/kuhmasii)
-[Apole Samuel] (https://github.com/samzzy-blink)
+[Apole Samuel](https://github.com/samzzy-blink)
